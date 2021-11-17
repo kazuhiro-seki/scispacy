@@ -27,6 +27,10 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/e
 python test.py
 ```
 
+## Note
+
+Doesn't run on M1 Mac.  Tested on CentOS.
+
 ## References
 
 - https://allenai.github.io/scispacy/
