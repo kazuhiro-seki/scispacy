@@ -1,10 +1,15 @@
 # NER by SciSpaCy
 
-## Install package
+## Virtual environment
 
 ```sh
 python3 -m venv venv
 source venv/bin/activate
+```
+
+## Install package
+
+```sh
 pip install pip -U
 pip install scispacy
 ```
